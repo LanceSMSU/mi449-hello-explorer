@@ -16,12 +16,13 @@ h2{
 
 .imgContainer{
     display:flex;
-    height:50%;
-    top: 500px;
     align-items: center;
+    margin-top: 100px;
 }
 
 .Earth{
+    width: 200px;
+    height: 200px;  
 }
 
 .Moon{
